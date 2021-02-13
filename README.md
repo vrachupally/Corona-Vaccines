@@ -15,6 +15,7 @@ The COVID-19 pandemic has been affecting every person throughout the world for t
 3. Which country is the most successful in rolling out the COVID-19 vaccine and what vaccine(s) are they using?  
 
 Data Sources
+
 •	country_vaccinations.csv:  Using this link from Kaggle, data is collected daily from Our World in Data GitHub repository for COVID-19.  Size:  1846 rows, 16 columns
 
 •	owid-covid-data.csv is a larger file containing similar data from country_vaccinations, also available from Our World in Data.  Size:  63,573 rows, 61 columns
