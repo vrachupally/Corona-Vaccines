@@ -30,10 +30,14 @@ The above steps were conducted as a group, then a clean starter file was pushed 
 
 Analysis (see Jupyter notebook)
 
-o	Total Vaccines Per Hundred vs People Fully Vaccinated Per Hundred were plotted and analyzed by different team members.  When cross-comparing which countries appeared in the top five for each of these plots, only Israel appeared in same position (#1) in both. Why? Because fully vaccinated data means any country distributing & completing the 2-dose regimen are counted in the running total for people fully vaccinated.
-o	Because Israel appears to successfully vaccinate their population, two line graphs showing Israel’s New Daily Cases and People Fully Vaccinated Per Hundred were visualized.  In both graphs, it appears as if the number of new cases is diminishing over time as more people are vaccinated.   
-o	Pharmaceutical companies have been rushing to produce and distribute vaccines. We plotted the company showing the highest number distributed.  Leading companies:  Pfizer and Moderna. 
+o	Total Vaccines Per Hundred vs People Fully Vaccinated Per Hundred were plotted and analyzed by different team members. When cross-comparing which countries appeared in the top five for each of these plots, only Israel appeared in same position (#1) in both. Why? Because fully vaccinated data means any country distributing & completing the 2-dose regimen are counted in the running total for people fully vaccinated.
+
+o	Because Israel appears to successfully vaccinate their population, two line graphs showing Israel’s New Daily Cases and People Fully Vaccinated Per Hundred were visualized.  In both graphs, it appears as if the number of new cases is diminishing over time as more people are vaccinated.
+
+o	Pharmaceutical companies have been rushing to produce and distribute vaccines. We plotted the company showing the highest number distributed. Leading companies:  Pfizer and Moderna. 
+
 o	Lastly, we categorized each country by population size (small = < 4,000,000, medium up to 18,000,000, large up to 1.5 billion).  Next, we compared the top five countries in each category. Perhaps the smallest countries have fewer people to vaccinate; therefore, they reach herd immunity the soonest?  Please see our conclusions:  
 
 Conclusions
+
 As of February 2021, it appears as if Israel (population of 4,937,796) is the most successful in vaccinating their people, and may reach herd immunity the soonest.   We assume richer nations such as the United States, United Arab Emirates, and United Kingdom are well on their way to herd immunity, but you must factor in population and new cases.  While the US ranks high in the fully vaccinated category, our population is simply too large to win this race.
